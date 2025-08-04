@@ -1,3 +1,4 @@
+// Функція приведення числа в ступінь
 function pow(x, y) {
     let result = 1;
     for (let i = 0; i < y; i++) {
